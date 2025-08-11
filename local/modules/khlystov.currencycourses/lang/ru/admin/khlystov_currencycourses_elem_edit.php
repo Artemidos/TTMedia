@@ -1,0 +1,24 @@
+<?php
+    $MESS['currencycourses_tab_edit'] = 'Изменение';
+    $MESS['currencycourses_tab_title'] = 'Изменение курса валюты';
+    $MESS['currencycourses_save_error'] = 'Ошибка сохранения курса валюты';
+    $MESS['currencycourses_title_edit'] = 'Изменение курса валюты ID = ';
+    $MESS['currencycourses_title_add'] = 'Добавление курса валюты';
+    $MESS['currencycourses_list'] = 'Список';
+    $MESS['currencycourses_list_title'] = 'К списку';
+    $MESS['currencycourses_add'] = 'Добавить';
+    $MESS['currencycourses_mnu_add'] = 'Добавление';
+    $MESS['currencycourses_delete'] = 'Удалить';
+    $MESS['currencycourses_mnu_del'] = 'Удаление';
+    $MESS['currencycourses_mnu_del_conf'] = 'Удаление 1';
+    $MESS['currencycourses_saved'] = 'Курс валюты сохранен';
+    $MESS['currencycourses_act'] = 'Активность';
+    $MESS['currencycourses_date'] = 'Дата обновления';
+    $MESS['currencycourses_code'] = 'Код валюты';
+    $MESS['currencycourses_course'] = 'Курс валюты в руб.';
+    $MESS['REQUIRED_FIELDS'] = 'Необходимые к заполнению поля';
+    $MESS['MAIN_ERROR'] = 'Ошибка';
+    $MESS['currencycourses_code_required'] = 'Код валюты обязателен к заполнению';
+    $MESS['currencycourses_course_required'] = 'Курс валюты обязателен к заполнению';
+    $MESS['currencycourses_date_required'] = 'Дата обновления курса валюты обязательна к заполнению';
+    $MESS['currencycourses_course_invalid'] = 'Некорректное значение курса валюты';
